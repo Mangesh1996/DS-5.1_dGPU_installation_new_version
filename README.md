@@ -9,6 +9,7 @@ installation it will install 455 which will also work)**
 --> nvidia-smi
 
 **Step 1: Disable the default Nouveau NVIDIA driver**
+
 -->sudo bash -c "echo blacklist nouveau > /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
 --> sudo bash -c "echo options nouveau modeset=0 >> /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
 --> cat /etc/modprobe.d/blacklist-nvidia-nouveau.conf
