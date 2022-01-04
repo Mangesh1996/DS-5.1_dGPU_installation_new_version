@@ -41,7 +41,7 @@ installation it will install 455 which will also work)**
 
 -->sudo nano ~/.bashrc
 
-## past below path in bashrc last line and also past on terminal
+## paste below path in bashrc last line and also past on terminal
 
 -->export PATH=/usr/local/cuda-11.1/bin:$PATH
 
