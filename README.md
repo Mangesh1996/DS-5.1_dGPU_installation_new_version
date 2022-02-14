@@ -202,6 +202,7 @@ execute on every one of them (Not mandatory deepstream apps work well without do
 
 
 --------------------------------------(Error when run cuda install.sh :- not a symbolic link)-------------------------------
+**not a symbolic link
 
 /sbin/ldconfig.real: /usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_ops_infer.so.8 is not a symbolic link
 /sbin/ldconfig.real: /usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_ops_train.so.8 is not a symbolic link
